@@ -20,20 +20,6 @@ Java Development Kit 1.8.0_202
 JAVA_HOME C:\Program Files\Java\jdk1.8.0_202
 JRE_HOME  C:\Program Files\Java\jre1.8.0_202
 
-/**********************************************************************************************************/
-
-Приложение MergeFilesJava.jar запускается через консоль.
-Пример запуска: java -jar MergeFilesJava.jar -h
-Для запуска приложения необходимо поместить файл MergeFilesJava.jar в отдельный каталог вместе с входящими файлами.
-Пользователь должен иметь права записи в каталог.
-На рабочем месте должны быть установлены: Java Runtime Environment 1.8.0_202 (при генерации MergeFilesJava.exe указана минимальная версия Java Runtime Environment 1.005.000)
-                                          Java Development Kit 1.8.0_202
-Также необходимо установить переменные окружения пользователя JAVA_HOME и JRE_HOME: 
-Пример:
-JAVA_HOME C:\Program Files\Java\jdk1.8.0_202
-JRE_HOME  C:\Program Files\Java\jre1.8.0_202
-/**********************************************************************************************************/
-
 Исходные файлы проекта прилагаются (.....\MergeFilesJava\src\mergefilesjava\MergeFilesJava.java).
 Вопросы по проекту прошу направлять на электронную почту koshelyuk_sergey@mail.ru (Кошелюк Сергей)
 
